@@ -3,7 +3,6 @@
 * [Astronomy](#astronomy)
 * [Programs](#programs)
 * [English](#english)
-* [Others](#others)
 
 
 
@@ -12,11 +11,10 @@
   * [新东方网课](http://library.koolearn.com/index)
 * ### Official Web
   * [GRE](https://gre.neea.edu.cn/login.do)
-* ### others
-  * [Thesaurus](https://www.thesaurus.com/)
-  * [English-corpora](https://www.english-corpora.org/coca/):
-  * [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
-  * [Writing courses from Duke](https://sites.duke.edu/scientificwriting/)
+* [Thesaurus](https://www.thesaurus.com/)
+* [English-corpora](https://www.english-corpora.org/coca/):
+* [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
+* [Writing courses from Duke](https://sites.duke.edu/scientificwriting/)
 
  
 ## Astronomy
