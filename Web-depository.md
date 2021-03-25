@@ -11,10 +11,6 @@
   * [新东方网课](http://library.koolearn.com/index)
 * ### Official Web
   * [GRE](https://gre.neea.edu.cn/login.do)
-* [Thesaurus](https://www.thesaurus.com/)
-* [English-corpora](https://www.english-corpora.org/coca/):
-* [A collection of English corpora](http://corpus.leeds.ac.uk/protected/query.html)
-* [Writing courses from Duke](https://sites.duke.edu/scientificwriting/)
 
  
 ## Astronomy
@@ -22,7 +18,7 @@
   * [CSST summary](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
   * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
-  * [Useful Web from a senior](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
+  * [Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
 
 * ### Database
   * [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
@@ -33,7 +29,6 @@
 
 * ### Online Tools
   * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
-  * [nbviewer](https://nbviewer.jupyter.org/): quickly open notebook, in case for bugs in github
   * [天文符号](http://astroleaks.lamost.org/submission/symbol/)
 
 * ### Tutorials & Courses
@@ -41,11 +36,7 @@
 
 * ### Homepages
   * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
-  * [Linhua Jiang](http://kavli.pku.edu.cn/~jiang/index.html)
-  * [Lijing Shao](https://friendshao.github.io/about/)
-  * [KIAAGravity](https://kiaagravity.github.io/)
-
-
+  * [CSST Galaxy & AGN Science Discussion](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Galaxy-&-AGN-Science-Discussion)
 
 ## Programs
 * ### Python docs
