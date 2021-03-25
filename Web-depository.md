@@ -33,6 +33,10 @@
 
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
+* ### Mathematica & MATLAB
+  * [激活指南](https://tiebamma.github.io/InstallTutorial/)
+  * [Matlab 帮助](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
+  * [Matlab 作图gallery](https://matplotlib.org/stable/gallery/index.html)
 
 * ### Homepages
   * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
