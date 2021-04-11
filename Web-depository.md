@@ -45,6 +45,7 @@
   * [Python Colormap list](https://blog.csdn.net/lly1122334/article/details/88535217)
   * [Python in astronomy from NOA, CAS](https://hebl.china-vo.org/course/PIA2020/)
   * [PyGame tutorial](https://eyehere.net/2011/python-pygame-novice-professional-1/)
+  * [MAtplotlib 作图gallery](https://matplotlib.org/stable/gallery/index.html)
 
 * ### Python packages
   * [Numpy](https://numpy.org/)
@@ -82,8 +83,6 @@
 * ### Mathematica & MATLAB
   * [激活指南](https://tiebamma.github.io/InstallTutorial/)
   * [Matlab 帮助](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
-  * [Matlab 作图gallery](https://matplotlib.org/stable/gallery/index.html)
-  * [Matlab 作图gallery](https://matplotlib.org/stable/gallery/index.html)
 
 ## 其它
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
