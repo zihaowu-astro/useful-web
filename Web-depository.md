@@ -86,3 +86,4 @@
 
 ## 其它
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
+* [综合指导课](https://meetplan.phy.pku.edu.cn)
