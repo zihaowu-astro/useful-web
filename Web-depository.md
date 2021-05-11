@@ -19,6 +19,7 @@
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
   * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
   * [Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
+  * [AstroDictionary](https://nadc.china-vo.org/astrodict/)
 
 * ### Database
   * [ADS](https://ui.adsabs.harvard.edu/): astrophysics data system
