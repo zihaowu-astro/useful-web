@@ -14,11 +14,14 @@
 
  
 ## Astronomy
+* ### Important
+  * [饕餮](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html)
+  * [Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
+
 * ### Infos & Blogs
   * [CSST summary](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
   * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
-  * [Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
   * [AstroDictionary](https://nadc.china-vo.org/astrodict/)
 
 * ### Database
