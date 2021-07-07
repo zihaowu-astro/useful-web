@@ -20,6 +20,7 @@
 * ### Important
   * [饕餮](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html)
   * [Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
+  * [literature review](https://www.scribbr.com/dissertation/literature-review/)
 
 * ### Infos & Blogs
   * [CSST summary](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
