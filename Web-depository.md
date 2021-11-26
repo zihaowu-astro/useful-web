@@ -1,19 +1,15 @@
 ## Contents <!-- omit in toc -->
-* [English](#english)
-* [Application](#application)
+* [Study aboard application](#application)
 * [Astronomy](#astronomy)
 * [Programs](#programs)
 * [Else](#else)
 
 
 
-## English
+## Study aboard application
 * ### Course
   * [新东方网课](http://library.koolearn.com/index)
-* ### Official Web
-  * [GRE](https://gre.neea.edu.cn/login.do)
-
-## Application
+* ### Personal Web
   * [GuoMingHao](https://mh-guo.github.io)
  
 ## Astronomy
@@ -27,49 +23,23 @@
   * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
   * [AstroDictionary](https://nadc.china-vo.org/astrodict/)
 
-* ### DataBase
+* ### DataBase and Tools
   * [Hubble Data](http://hst.esac.esa.int/ehst/#home)
   * [IPAC Extragalactic Database](https://ned.ipac.caltech.edu)
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
-
-* ### Online Tools
+  * [天文学名词](https://nadc.china-vo.org/astrodict/)
   * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
   * [天文符号](http://astroleaks.lamost.org/submission/symbol/)
 
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
+  * [Astrophysics(Xu Renxin)](https://psr.pku.edu.cn/rxx/teach/astro/lecture%20notes/)
 
 * ### Homepages
   * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
   * [CSST Galaxy & AGN Science Discussion](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Galaxy-&-AGN-Science-Discussion)
 
 ## Coding
-* ### Python docs
-  * [Python string format docs](https://pyformat.info/)
-  * [Python Linestyle、marker、color list](https://www.cnblogs.com/darkknightzh/p/6117528.html)
-  * [Python Colormap list](https://blog.csdn.net/lly1122334/article/details/88535217)
-  * [Python in astronomy from NOA, CAS](https://hebl.china-vo.org/course/PIA2020/)
-  * [PyGame tutorial](https://eyehere.net/2011/python-pygame-novice-professional-1/)
-  * [MAtplotlib 作图gallery](https://matplotlib.org/stable/gallery/index.html)
-
-* ### Python packages
-  * [Numpy](https://numpy.org/)
-  * [Astropy](https://www.astropy.org/)
-  * [Astroquery](https://astroquery.readthedocs.io/en/latest/index.html): a set of tools for querying astronomical web forms and databases.
-  * [sfdmap](https://github.com/kbarbary/sfdmap): A minimal, fast, MIT-licensed Python module for getting E(B-V) values from Schlegel, Finkbeiner & Davis (1998) dust map FITS files.
-  * [Kapteyn](https://www.astro.rug.nl/software/kapteyn/index.html): provide tools for the development of astronomical applications with Python.
-  * [VoigtFit](https://voigtfit.readthedocs.io/en/latest/): VoigtFit is written to make absorption line fitting a breeze.
-  * [ParaMonte: Parallel Monte Carlo Library](https://www.cdslab.org/paramonte/notes/overview/preface/)
-  * [PyHammer](https://github.com/BU-hammerTeam/PyHammer): a tool developed to allow rapid and automatic spectral classification of stars.
-  * [DESK: Dusty-Evolved-Star-Kit](https://github.com/s-goldman/Dusty-Evolved-Star-Kit): an SED-fitting python package for fitting data from evolved stars (photometry or spectra)
-
-* ### Latex
-  * [overleaf](https://www.overleaf.com/): The easy to use, online, collaborative LaTeX editor
-  * [Latex: Binary Relation Operators](http://www.access2science.com/latex/Binary.html)
-  * [Symbols in LaTeX](https://latex.wikia.org/wiki/List_of_LaTeX_symbols)
-  * [Symbols in LaTeX and HTML](http://www.stevesque.com/symbols/)
-  * [Special_Characters in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Special_Characters)
-
 * ### Courses & Resources
   * [free programming ebooks index](https://github.com/justjavac/free-programming-books-zh_CN)
   * [OS Kernel Labs from THU](https://github.com/kiukotsu/ucore)
@@ -84,13 +54,19 @@
   * [The guide of CHinese technical document](https://github.com/ruanyf/document-style-guide)
   * [Vim tutorial](https://github.com/wsdjeg/vim-galore-zh_cn)
   * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)
+* ### Latex
+  * [Excel to Latex Convert](https://tableconvert.com)
+ 
 
 * ### Mathematica & MATLAB
   * [激活指南](https://tiebamma.github.io/InstallTutorial/)
   * [Matlab 帮助](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
 
+## Interesting Things
+ * [Academical Family Tree](https://academictree.org)
+ * [吉他谱](https://www.gtpso.com/index.php/home/index/viewTab?id=3562)
 
-## Else
+## hodgepodge
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
 * [综合指导课](https://meetplan.phy.pku.edu.cn/meetplan/teacherlist)
 * [libgen official web](https://libgen.onl)
