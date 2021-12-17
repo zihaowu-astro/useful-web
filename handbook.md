@@ -6,6 +6,10 @@
 * [Cambridge Series](https://www.cambridge.org/core/what-we-publish/collections/series)
 * [Hubble Software](https://www.stsci.edu/scientific-community/software)
 
+## To do list
+* [multiprocess](https://www.cnblogs.com/tkqasn/p/5701230.html)
+* [nohub](https://en.wikipedia.org/wiki/Nohup)
+
 ## Python
 * [正则表达式](https://www.runoob.com/regexp/regexp-syntax.html)
 
