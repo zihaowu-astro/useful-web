@@ -41,6 +41,11 @@
   * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
   * [CSST Galaxy & AGN Science Discussion](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Galaxy-&-AGN-Science-Discussion)
 
+## Physics
+* ### Theory
+  * [Fluid Mechanics](http://faculty.pku.edu.cn/junyang/en/zdylm/12830/list/index.htm)
+
+
 ## Coding
 * ### Courses & Resources
   * [free programming ebooks index](https://github.com/justjavac/free-programming-books-zh_CN)
