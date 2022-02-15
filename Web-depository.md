@@ -48,6 +48,8 @@
 
 
 ## Coding
+* ### Tools
+  * [scipy equation solve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.brentq.html)
 * ### Courses & Resources
   * [free programming ebooks index](https://github.com/justjavac/free-programming-books-zh_CN)
   * [OS Kernel Labs from THU](https://github.com/kiukotsu/ucore)
