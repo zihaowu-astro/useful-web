@@ -35,6 +35,12 @@
   * [Filter](http://svo2.cab.inta-csic.es/svo/theory/fps3/index.php?mode=browse&gname=HST&gname2=ACS_WFC&asttype=)
   * [Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
   * [HST zpt](https://www.stsci.edu/hst/instrumentation/acs/data-analysis/zeropoints)
+  * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
+  * [SDSS](http://skyserver.sdss.org/dr16/en/tools/chart/navi.aspx)
+  * [ZTF](https://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-dd)
+  * [IPAC Extinction](https://ned.ipac.caltech.edu/extinction_calculator)
+  * [IRSA Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
+  * [HST Pointing Accuracy](https://hst-docs.stsci.edu/drizzpac/chapter-4-astrometric-information-in-the-header/4-5-absolute-astrometry)
 
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
