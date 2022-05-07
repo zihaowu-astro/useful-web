@@ -83,6 +83,7 @@
 ## Interesting Things
  * [Academical Family Tree](https://academictree.org)
  * [吉他谱](https://www.gtpso.com/index.php/home/index/viewTab?id=3562)
+ * [洋流](https://earth.nullschool.net)
 
 ## hodgepodge
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
