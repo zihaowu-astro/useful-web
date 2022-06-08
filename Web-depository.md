@@ -1,6 +1,6 @@
 ## Contents <!-- omit in toc -->
 * [Astronomy](#astronomy)
-* [physics](#physics)
+* [Physics](#physics)
 * [Coding](#coding)
 * [Else](#else)
 
