@@ -1,24 +1,20 @@
 ## Contents <!-- omit in toc -->
-* [Study aboard application](#application)
 * [Astronomy](#astronomy)
-* [Programs](#programs)
+* [physics](#physics)
+* [Coding](#coding)
 * [Else](#else)
 
-
-
-## Study aboard application
-* ### Course
-  * [新东方网课](http://library.koolearn.com/index)
-* ### Personal Web
-  * [GuoMingHao](https://mh-guo.github.io)
-  * [WuXiaohan](https://xiaohanzai.github.io)
-  * [Xiangcheng Ma(USTC)](http://www.tapir.caltech.edu/~xchma/)
  
 ## Astronomy
 * ### Important
   * [饕餮](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html)
   * [Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
   * [literature review](https://www.scribbr.com/dissertation/literature-review/)
+
+* ### Personal Web
+  * [GuoMingHao](https://mh-guo.github.io)
+  * [WuXiaohan](https://xiaohanzai.github.io)
+  * [Xiangcheng Ma(USTC)](http://www.tapir.caltech.edu/~xchma/)
 
 * ### Infos & Blogs
   * [CSST summary](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
@@ -41,6 +37,7 @@
   * [IPAC Extinction](https://ned.ipac.caltech.edu/extinction_calculator)
   * [IRSA Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
   * [HST Pointing Accuracy](https://hst-docs.stsci.edu/drizzpac/chapter-4-astrometric-information-in-the-header/4-5-absolute-astrometry)
+  * [Acknowledgment](http://astrofrog.github.io/acknowledgment-generator/)
 
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
@@ -84,6 +81,8 @@
  * [Academical Family Tree](https://academictree.org)
  * [吉他谱](https://www.gtpso.com/index.php/home/index/viewTab?id=3562)
  * [洋流](https://earth.nullschool.net)
+ * [color choice](https://colordrop.io)
+ * 
 
 ## hodgepodge
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
