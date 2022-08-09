@@ -71,6 +71,8 @@
   * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)
 * ### Latex
   * [Excel to Latex Convert](https://tableconvert.com)
+* ### Git
+  * [merger part of the files](git_notes.md)
  
 
 * ### Mathematica & MATLAB
