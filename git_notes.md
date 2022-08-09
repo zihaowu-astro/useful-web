@@ -20,3 +20,5 @@ git checkout A_temp [files]
 ```
 git branch -d A_temp
 ```
+
+link: https://cloud.tencent.com/developer/article/1510082
