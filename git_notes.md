@@ -12,6 +12,7 @@ git merge B
 
 3. go back to branch A and cover them 
 ```
+git checkout A
 git checkout A_temp [files]
 ```
 
