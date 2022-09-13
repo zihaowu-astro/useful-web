@@ -1,2 +1,1 @@
-# Web list
 * [Princeton](https://web.astro.princeton.edu)
