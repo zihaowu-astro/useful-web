@@ -25,19 +25,30 @@
   #### Scientific Information
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
   * [Filter Information](http://svo2.cab.inta-csic.es/svo/theory/fps3/index.php?mode=browse&gname=HST&gname2=ACS_WFC&asttype=)
+  * [Band Transformation (Ohio)](https://www.astronomy.ohio-state.edu/martini.10/usefuldata.html)
   * [Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
   * [Extinction Calculator](https://ned.ipac.caltech.edu/extinction_calculator)
   * [HST zpt](https://www.stsci.edu/hst/instrumentation/acs/data-analysis/zeropoints)
-  * [HST Pointing Accuracy](https://hst-docs.stsci.edu/drizzpac/chapter-4-astrometric-information-in-the-header/4-5-absolute-astrometry)
-  
+  * [HST ACS Quick Reference Guide](https://hst-docs.stsci.edu/acsihb/chapter-3-acs-capabilities-design-and-operations/3-5-acs-quick-reference-guide)
+  * [Astrometry]
+
+
+* ### Scientific Tools
+  * [APLpy: plot publication-quality imaging data](https://python4astronomers.github.io/plotting/aplpy.html)
+
+
 * ### Review Articals & Books
   * [Cambridge Handbooks](http://ads.harvard.edu/books/hsaa/toc.html)
   * [Galactic Nuclear Rings](https://ned.ipac.caltech.edu/level5/Rings/Rings_contents.html)
+  * [Thermal **eccentricity** distribution of binary stars](https://joe-antognini.github.io/astronomy/thermal-eccentricities)
+  * [Radio Galaxies Wiki](https://en.wikipedia.org/wiki/Radio_galaxy)
+  * 
  
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
   * [Astrophysics(Xu Renxin)](https://psr.pku.edu.cn/rxx/teach/astro/lecture%20notes/)
   * [Fluid Mechanics](http://faculty.pku.edu.cn/junyang/en/zdylm/12830/list/index.htm)
+
 
 * ### Miscellaneous Tools
   * [Acknowledgment Generator](http://astrofrog.github.io/acknowledgment-generator/)
@@ -47,6 +58,7 @@
 ## Coding
 * ### Tools
   * [scipy equation solve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.brentq.html)
+  
 * ### Courses & Resources
   * [free programming ebooks index](https://github.com/justjavac/free-programming-books-zh_CN)
   * [OS Kernel Labs from THU](https://github.com/kiukotsu/ucore)
@@ -55,6 +67,9 @@
   * [GitHub Chinese rankings](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
   * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): simple GitHub projects
   * [C++ Alogrithms](https://github.com/TheAlgorithms/C-Plus-Plus)
+
+* ### Tips
+  * [Git: Partially Merge](https://cloud.tencent.com/developer/article/1510082)
 
 * ### Tutorials
   * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
