@@ -6,50 +6,42 @@
 
  
 ## Astronomy
-* ### Important
-  * [饕餮](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html)
-  * [Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
-  * [literature review](https://www.scribbr.com/dissertation/literature-review/)
 
-* ### Personal Web
+* ### Personal Homepages
   * [GuoMingHao](https://mh-guo.github.io)
   * [WuXiaohan](https://xiaohanzai.github.io)
   * [Xiangcheng Ma(USTC)](http://www.tapir.caltech.edu/~xchma/)
+  * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
+  * [饕餮](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html)
 
-* ### Infos & Blogs
-  * [CSST summary](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Summary)
-  * [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/toc.html)
-  * [AstroDictionary](https://nadc.china-vo.org/astrodict/)
-
-* ### DataBase and Tools
+* ### DataBase
+  #### Observation Database
   * [Hubble Data](http://hst.esac.esa.int/ehst/#home)
   * [IPAC Extragalactic Database](https://ned.ipac.caltech.edu)
-  * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
-  * [天文学名词](https://nadc.china-vo.org/astrodict/)
-  * [积分计算器](https://www.wolframalpha.com/calculators/integral-calculator)
-  * [天文符号](http://astroleaks.lamost.org/submission/symbol/)
-  * [Filter](http://svo2.cab.inta-csic.es/svo/theory/fps3/index.php?mode=browse&gname=HST&gname2=ACS_WFC&asttype=)
-  * [Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
-  * [HST zpt](https://www.stsci.edu/hst/instrumentation/acs/data-analysis/zeropoints)
-  * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
   * [SDSS](http://skyserver.sdss.org/dr16/en/tools/chart/navi.aspx)
   * [ZTF](https://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-dd)
-  * [IPAC Extinction](https://ned.ipac.caltech.edu/extinction_calculator)
-  * [IRSA Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
-  * [HST Pointing Accuracy](https://hst-docs.stsci.edu/drizzpac/chapter-4-astrometric-information-in-the-header/4-5-absolute-astrometry)
-  * [Acknowledgment](http://astrofrog.github.io/acknowledgment-generator/)
+  * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
 
+  #### Scientific Information
+  * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
+  * [Filter Information](http://svo2.cab.inta-csic.es/svo/theory/fps3/index.php?mode=browse&gname=HST&gname2=ACS_WFC&asttype=)
+  * [Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
+  * [Extinction Calculator](https://ned.ipac.caltech.edu/extinction_calculator)
+  * [HST zpt](https://www.stsci.edu/hst/instrumentation/acs/data-analysis/zeropoints)
+  * [HST Pointing Accuracy](https://hst-docs.stsci.edu/drizzpac/chapter-4-astrometric-information-in-the-header/4-5-absolute-astrometry)
+  
+* ### Review Articals & Books
+  * [Cambridge Handbooks](http://ads.harvard.edu/books/hsaa/toc.html)
+  * [Galactic Nuclear Rings](https://ned.ipac.caltech.edu/level5/Rings/Rings_contents.html)
+ 
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
   * [Astrophysics(Xu Renxin)](https://psr.pku.edu.cn/rxx/teach/astro/lecture%20notes/)
-
-* ### Homepages
-  * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
-  * [CSST Galaxy & AGN Science Discussion](https://github.com/CSSTsci/GalaxyAGN_science_discussion/wiki/CSST-Galaxy-&-AGN-Science-Discussion)
-
-## Physics
-* ### Theory
   * [Fluid Mechanics](http://faculty.pku.edu.cn/junyang/en/zdylm/12830/list/index.htm)
+
+* ### Miscellaneous Tools
+  * [Acknowledgment Generator](http://astrofrog.github.io/acknowledgment-generator/)
+  * [PKU Useful Webs](https://github.com/panzhiwei1997/Very_Useful_Very_Interesting/blob/main/VUVI_Chinese.md)
 
 
 ## Coding
@@ -74,10 +66,6 @@
 * ### Git
   * [merger part of the files](git_notes.md)
  
-
-* ### Mathematica & MATLAB
-  * [激活指南](https://tiebamma.github.io/InstallTutorial/)
-  * [Matlab 帮助](https://ww2.mathworks.cn/support.html?s_tid=gn_supp)
 
 ## Interesting Things
  * [Academical Family Tree](https://academictree.org)
