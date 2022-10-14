@@ -10,10 +10,16 @@
 * ### DataBase
   #### Observation Database
   * [Hubble Data](http://hst.esac.esa.int/ehst/#home)
+  * [MAST for Hubble Data](https://mast.stsci.edu/search/ui/#/hst)
   * [NED/IPAC Extragalactic Database](https://ned.ipac.caltech.edu)
   * [SDSS](http://skyserver.sdss.org/dr16/en/tools/chart/navi.aspx)
   * [ZTF](https://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-dd)
   * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
+  * [ESA Sky Server](https://sky.esa.int/)
+  * [Radio Server](http://cutouts.cirada.ca)
+  * [Canada Server](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/)
+  * [Kepler Binary Catalog](http://keplerebs.villanova.edu/)
+  * [Planet Catalog](https://exoplanetarchive.ipac.caltech.edu)
 
   #### Scientific Information
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
@@ -31,7 +37,8 @@
   * [APLpy: plot publication-quality imaging data](https://python4astronomers.github.io/plotting/aplpy.html)
   * [PyPhot: compute photometry from spectra](https://mfouesneau.github.io/pyphot/)
   * [Statmorph: galaxy nonparametric measurement](https://statmorph.readthedocs.io/en/latest/_modules/statmorph/statmorph.html#SourceMorphology)
-  * 
+  * [WCS Transformation](https://docs.astropy.org/en/stable/wcs/index.html)
+  * [Box Least Squares (BLS) Periodogram](https://docs.astropy.org/en/stable/timeseries/bls.html#peak-statistics)
 
 
 * ### Review Articals & Books
@@ -71,6 +78,7 @@
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
   * [Astrophysics(Xu Renxin)](https://psr.pku.edu.cn/rxx/teach/astro/lecture%20notes/)
   * [Fluid Mechanics](http://faculty.pku.edu.cn/junyang/en/zdylm/12830/list/index.htm)
+  * [物院 ftp](ftp://pts.phy.pku.edu.cn/liuchuan/)
 
 
 * ### Miscellaneous Tools
@@ -84,6 +92,8 @@
   * [Git: Partially Merge](https://cloud.tencent.com/developer/article/1510082)
   * [Multiprocess in Python](Multiprocessing in Python | Set 1 (Introduction) - GeeksforGeeks)
  
+* ### Tutorials
+  * [Git 廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600) 
 
 ## Interesting Things
  * [Academical Family Tree](https://academictree.org)
@@ -92,5 +102,6 @@
  * [color choice](https://colordrop.io)
 
 ## hodgepodge
+* [中文 Zlibrary](https://hou.qialu999.com/sites/4160.html)
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
 * [libgen official web](https://libgen.onl)
