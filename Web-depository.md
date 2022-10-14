@@ -1,10 +1,3 @@
-## Contents <!-- omit in toc -->
-* [Astronomy](#astronomy)
-* [Physics](#physics)
-* [Coding](#coding)
-* [Else](#else)
-
- 
 ## Astronomy
 
 * ### Personal Homepages
@@ -89,6 +82,7 @@
 
 * ### Tips
   * [Git: Partially Merge](https://cloud.tencent.com/developer/article/1510082)
+  * [Multiprocess in Python](Multiprocessing in Python | Set 1 (Introduction) - GeeksforGeeks)
  
 
 ## Interesting Things
