@@ -17,7 +17,7 @@
 * ### DataBase
   #### Observation Database
   * [Hubble Data](http://hst.esac.esa.int/ehst/#home)
-  * [IPAC Extragalactic Database](https://ned.ipac.caltech.edu)
+  * [NED/IPAC Extragalactic Database](https://ned.ipac.caltech.edu)
   * [SDSS](http://skyserver.sdss.org/dr16/en/tools/chart/navi.aspx)
   * [ZTF](https://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-dd)
   * [SIMBAD](http://simbad.u-strasbg.fr/simbad/)
@@ -26,23 +26,53 @@
   * [Physical Constants and Astronomical Data](http://www.astro.wisc.edu/~dolan/constants.html)
   * [Filter Information](http://svo2.cab.inta-csic.es/svo/theory/fps3/index.php?mode=browse&gname=HST&gname2=ACS_WFC&asttype=)
   * [Band Transformation (Ohio)](https://www.astronomy.ohio-state.edu/martini.10/usefuldata.html)
+  * [magnitude system](https://lweb.cfa.harvard.edu/~dfabricant/huchra/ay145/mags.html)
   * [Extinction](https://irsa.ipac.caltech.edu/applications/DUST/)
   * [Extinction Calculator](https://ned.ipac.caltech.edu/extinction_calculator)
   * [HST zpt](https://www.stsci.edu/hst/instrumentation/acs/data-analysis/zeropoints)
   * [HST ACS Quick Reference Guide](https://hst-docs.stsci.edu/acsihb/chapter-3-acs-capabilities-design-and-operations/3-5-acs-quick-reference-guide)
-  * [Astrometry]
+  * [Astrometry](https://github.com/mason-github/useful-web/blob/main/astrometry.md)
 
 
 * ### Scientific Tools
   * [APLpy: plot publication-quality imaging data](https://python4astronomers.github.io/plotting/aplpy.html)
+  * [PyPhot: compute photometry from spectra](https://mfouesneau.github.io/pyphot/)
+  * [Statmorph: galaxy nonparametric measurement](https://statmorph.readthedocs.io/en/latest/_modules/statmorph/statmorph.html#SourceMorphology)
+  * 
 
 
 * ### Review Articals & Books
+  #### General 
   * [Cambridge Handbooks](http://ads.harvard.edu/books/hsaa/toc.html)
+  
+  #### Galaxy and AGN
   * [Galactic Nuclear Rings](https://ned.ipac.caltech.edu/level5/Rings/Rings_contents.html)
-  * [Thermal **eccentricity** distribution of binary stars](https://joe-antognini.github.io/astronomy/thermal-eccentricities)
+  * [Lumninosity Function (galaxy and radio) 1988](https://ned.ipac.caltech.edu/level5/Dickey/Dickey_contents.html)
+  * [LINERs (Luis 1999)](https://ned.ipac.caltech.edu/level5/LHo3/Ho_contents.html)
+  * [AGN Detection (2004)](https://ned.ipac.caltech.edu/level5/March04/Mushotzky/Mushotzky_contents.html)
+  * [Evolution of Galaxy Structures](https://ned.ipac.caltech.edu/level5/March14/Conselice/Conselice_contents.html)
+  
+  #### Hunt for Black Holes
+  * [Evidence for SMBHs (Luis 1998)](http://ned.ipac.caltech.edu/level5/March01/Ho/Ho.html)
+  * [Intermediate BHs](https://astrobites.org/2012/04/06/intermediate-mass-black-holes-the-elusive-middle-sibling/)
+
+  
+  #### Radio AGN & Jets
+  * [FR Dichotomy (2012)](https://ned.ipac.caltech.edu/level5/Sept12/Saripalli/frames.html)
   * [Radio Galaxies Wiki](https://en.wikipedia.org/wiki/Radio_galaxy)
-  * 
+  * [Radio AGN in the local Universe (Tadhunter)](https://ned.ipac.caltech.edu/level5/Sept16/Tadhunter/Tadhunter_contents.html)
+  * [Radio sources and Cosmology](https://ned.ipac.caltech.edu/level5/Sept04/Condon/Condon_contents.html)
+  * [AGN, Quasar, and JETS](https://ned.ipac.caltech.edu/level5/ESSAYS/Eilek/eilek.html)
+
+  
+  #### Planetary and Stars
+  * [Thermal **eccentricity** distribution of binary stars](https://joe-antognini.github.io/astronomy/thermal-eccentricities)
+  * [SuperNova Light Curves](https://en.wikipedia.org/wiki/File:Comparative_supernova_type_light_curves.png)
+
+  #### Else
+  * [Weak Lensing (scholarpedia)](http://www.scholarpedia.org/article/Weak_gravitational_lensing)
+  * [Alignments between random points](https://en.wikipedia.org/wiki/Alignments_of_random_points)
+  * [MOND](https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics)
  
 * ### Tutorials & Courses
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
@@ -56,30 +86,9 @@
 
 
 ## Coding
-* ### Tools
-  * [scipy equation solve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.brentq.html)
-  
-* ### Courses & Resources
-  * [free programming ebooks index](https://github.com/justjavac/free-programming-books-zh_CN)
-  * [OS Kernel Labs from THU](https://github.com/kiukotsu/ucore)
-  * [THU programming courses](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-  * [Leetcode](https://leetcode-cn.com/): a website full of programming problems
-  * [GitHub Chinese rankings](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-  * [HelloGitHub](https://github.com/521xueweihan/HelloGitHub): simple GitHub projects
-  * [C++ Alogrithms](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 * ### Tips
   * [Git: Partially Merge](https://cloud.tencent.com/developer/article/1510082)
-
-* ### Tutorials
-  * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer): A guide on how to be a Programmer - originally published by Robert L Read
-  * [The guide of CHinese technical document](https://github.com/ruanyf/document-style-guide)
-  * [Vim tutorial](https://github.com/wsdjeg/vim-galore-zh_cn)
-  * [The Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/)
-* ### Latex
-  * [Excel to Latex Convert](https://tableconvert.com)
-* ### Git
-  * [merger part of the files](git_notes.md)
  
 
 ## Interesting Things
@@ -87,9 +96,7 @@
  * [吉他谱](https://www.gtpso.com/index.php/home/index/viewTab?id=3562)
  * [洋流](https://earth.nullschool.net)
  * [color choice](https://colordrop.io)
- * 
 
 ## hodgepodge
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
-* [综合指导课](https://meetplan.phy.pku.edu.cn/meetplan/teacherlist)
 * [libgen official web](https://libgen.onl)
