@@ -32,10 +32,8 @@ zhw: Stanford, UChi, Princeton
 
 zzb: UArizona, Berkeley 
 
-lzh: UCB, Caltech, Princeton 
-
-sxj: Princeton, OSU, Maryland 
-
+lzh: UCB, Caltech, Princeton  
+sxj: Princeton, OSU, Maryland  
 dbw: Harvard (physics), UIUC, UCSD, Maryland, JHU
 
 
