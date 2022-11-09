@@ -14,24 +14,18 @@ PKU offer:
 * 2017: Princeton, UCSB, UCLA 
 
 * 2016: 
-lc: UCSB(phy), UCSC, Northwestern, 
-
-ljx: UArizona, UPenn, UWashington,Yale, Princeton, JHU, Pittsburgh 
-
+lc: UCSB(phy), UCSC, Northwestern,  
+ljx: UArizona, UPenn, UWashington,Yale, Princeton, JHU, Pittsburgh  
 jg: Berkeley(phy), Princeton, Caltech(phy), UChicago(phy), CMU(phy), Stanford(phy) 
 
 * 2015:
 lz: Princeton, 
 
 * 2014:
-yyh: UCB, UChi, Caltech 
-
-sfw: UCB, UChi, Minnesota 
-
-zhw: Stanford, UChi, Princeton 
-
-zzb: UArizona, Berkeley 
-
+yyh: UCB, UChi, Caltech  
+sfw: UCB, UChi, Minnesota  
+zhw: Stanford, UChi, Princeton  
+zzb: UArizona, Berkeley  
 lzh: UCB, Caltech, Princeton  
 sxj: Princeton, OSU, Maryland  
 dbw: Harvard (physics), UIUC, UCSD, Maryland, JHU
