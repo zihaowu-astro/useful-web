@@ -8,3 +8,7 @@
 
 # CV Example
 * [Berkeley](https://www.jamessunseri.com/James__CV-4.pdf)
+
+# My application
+* [School list](https://github.com/mason-github/useful-web/edit/main/school_list.md)
+
