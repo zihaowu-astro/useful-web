@@ -1,11 +1,11 @@
 ### Tier 1: 
-Princeton, Caltech, Berkeley, Harvard
+Princeton (Dec. 15), Caltech (Dec. 21), Berkeley (Dec. 15), Harvard (Dec. 15)
 
 ### Tier 2: 
-Oxford, UC SC, Chicago, Yale, Ohio
+Oxford (Jan. 6; TOEFL S>23/25), UC SC (Jan. 5), Chicago (Dec. 15), Yale (Dec. 15), Ohio (Nov. 30)
 
 ### Tier 3: 
-Maryland, UPenn
+Maryland (Dec. 15), UPenn (Dec. 15)
 
 
 Ranking in [Physicsgre](https://physicsgre.com/viewtopic.php?f=21&t=1536&p=12956&hilit=astro+Yale#p12956)
