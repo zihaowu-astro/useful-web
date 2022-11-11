@@ -4,6 +4,11 @@
 * [HST ACS](https://hst-docs.stsci.edu/acsdhb/chapter-5-acs-data-analysis/5-2-astrometry)
 * [FIRST](http://sundog.stsci.edu/first/catalog_paper/node5.html): 0.5''
 * [Gaia](https://www.aanda.org/articles/aa/full_html/2021/05/aa39709-20/aa39709-20.html): The median uncertainty in parallax and annual proper motion is 0.02–0.03 mas at magnitude G = 9–14, and around 0.5 mas at G = 20
+* [VLBI](https://gea.esac.esa.int/archive/documentation/GDR2/Catalogue_consolidation/chap_cu9val_cu9val/sec_cu9val_944/ssec_cu9val_944_wp944astrometry.html): 1 µas year-1
+
+Comprehensive Summary: [here](https://gea.esac.esa.int/archive/documentation/GDR2/Catalogue_consolidation/chap_cu9val_cu9val/sec_cu9val_944/ssec_cu9val_944_wp944astrometry.html)
+
+
 
 
 ## Resolution
