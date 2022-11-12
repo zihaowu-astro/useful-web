@@ -2,7 +2,7 @@
 Princeton (Dec. 15), Caltech (Dec. 21), Berkeley (Dec. 15), Harvard (Dec. 15)
 
 ### Tier 2: 
-Oxford (Jan. 6; TOEFL S>23/25), UC SC (Jan. 5), Chicago (Dec. 15), Yale (Dec. 15), Ohio (Nov. 30)
+Oxford (Jan. 6; TOEFL S>23/25), UC SC (Jan. 5), Chicago (Dec. 15), Yale (Dec. 15), Ohio (Nov. 30), MIT (Dec. 15)
 
 ### Tier 3: 
 Maryland (Dec. 15), UPenn (Dec. 15)
