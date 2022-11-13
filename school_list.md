@@ -36,13 +36,13 @@ dbw: Harvard (physics), UIUC, UCSD, Maryland, JHU
 TOEFL:
 Princeton(Dec. 15): No requirement.  
 Caltech(Dec. 21): No requirement.  
-Berkeley(Dec. 15): 90.
-Harvard (Dec. 15): 90
-Oxford (Jan. 6): 100 (S>23)
-UC SC (Jan. 5): 83
-Chicago (Dec. 15): 90
-Yale (Dec. 15): 100
-Ohio (Nov. 30): 95
-MIT (Dec. 15): minimal 90; recommend: 100
-Maryland (Dec. 15): 96
-UPenn (Dec. 15): 100, (S > 23)
+Berkeley(Dec. 15): 90.  
+Harvard (Dec. 15): 90.  
+Oxford (Jan. 6): 100 (S>23).  
+UC SC (Jan. 5): 83.  
+Chicago (Dec. 15): 90.  
+Yale (Dec. 15): 100.  
+Ohio (Nov. 30): 95.  
+MIT (Dec. 15): minimal 90; recommend: 100.  
+Maryland (Dec. 15): 96.  
+UPenn (Dec. 15): 100, (S > 23).  
