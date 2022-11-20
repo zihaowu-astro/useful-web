@@ -2,10 +2,21 @@
 Princeton (Dec. 15), Caltech (Dec. 21), Berkeley (Dec. 15), Harvard (Dec. 15)
 
 ### Tier 2: 
-Oxford (Jan. 6; TOEFL S>23/25), UC SC (Jan. 5), Chicago (Dec. 15), Yale (Dec. 15), Ohio (Nov. 30), MIT (Dec. 15)
+Arizona (Dec. 1): 先申吧。
+Chicago (Dec. 15), 
+MIT (Dec. 15),
+Oxford (Jan. 6; TOEFL S>23/25), 
+UC SC (Jan. 5), 
 
 ### Tier 3: 
-Maryland (Dec. 15), UPenn (Dec. 15)
+UMich: 物理很有名。Good safe school list in PHYGRE.
+Ohio (Nov. 30): Uros 学生。东老师 phd 学校
+ETH master: 
+
+### May not
+Yale (Dec. 15): 招收的人太少
+U State Penn (Dec. 1): ddl 太早，托福要求达不到. 感觉无太务实。
+Maryland: 感觉这个学校不行，网站做的很烂。
 
 
 Ranking in [Physicsgre](https://physicsgre.com/viewtopic.php?f=21&t=1536&p=12956&hilit=astro+Yale#p12956)
