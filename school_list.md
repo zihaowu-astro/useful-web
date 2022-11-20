@@ -11,7 +11,8 @@ UC SC (Jan. 5),
 ### Tier 3: 
 UMich: 物理很有名。Good safe school list in PHYGRE.  
 Ohio (Nov. 30): Uros 学生。东老师 phd 学校. 
-ETH master:   
+ETH master: [link](https://ethz.ch/en/studies/master/application/international-bachelor/how-to-apply.html)
+Liden (1 April):
 
 ### May not
 Yale (Dec. 15): 招收的人太少.  
