@@ -2,6 +2,7 @@
 
 * ### Personal Homepages
   * [GuoMingHao](https://mh-guo.github.io)
+  * [Meng Gu](https://menggu-astro.github.io)
   * [WuXiaohan](https://xiaohanzai.github.io)
   * [Xiangcheng Ma(USTC)](http://www.tapir.caltech.edu/~xchma/)
   * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
