@@ -93,8 +93,9 @@
   * [Git: Partially Merge](https://cloud.tencent.com/developer/article/1510082)
   * [Multiprocess in Python](Multiprocessing in Python | Set 1 (Introduction) - GeeksforGeeks)
  
-* ### Tutorials
+* ### GitHub
   * [Git 廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600) 
+  * [SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## Interesting Things
  * [Academical Family Tree](https://academictree.org)
