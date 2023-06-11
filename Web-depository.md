@@ -79,7 +79,8 @@
   * [Astroplotlib](http://astroplotlib.stsci.edu/): examples of astroplot
   * [Astrophysics(Xu Renxin)](https://psr.pku.edu.cn/rxx/teach/astro/lecture%20notes/)
   * [Fluid Mechanics](http://faculty.pku.edu.cn/junyang/en/zdylm/12830/list/index.htm)
-  * [物院 ftp](ftp://pts.phy.pku.edu.cn/liuchuan/)
+  * 物院ftp: ftp://pts.phy.pku.edu.cn/liuchuan/
+how to open: 1. Macbook Finder. 2. Command + K. 3. type ftp and choose guest.
 
 
 * ### Miscellaneous Tools
