@@ -42,7 +42,7 @@
   * [Box Least Squares (BLS) Periodogram](https://docs.astropy.org/en/stable/timeseries/bls.html#peak-statistics)
 
 
-* ### Review Articals & Books
+* ### Review Articles & Books
   #### General 
   * [Cambridge Handbooks](http://ads.harvard.edu/books/hsaa/toc.html)
   
@@ -80,7 +80,7 @@
   * [Astrophysics(Xu Renxin)](https://psr.pku.edu.cn/rxx/teach/astro/lecture%20notes/)
   * [Fluid Mechanics](http://faculty.pku.edu.cn/junyang/en/zdylm/12830/list/index.htm)
   * 物院ftp: ftp://pts.phy.pku.edu.cn/liuchuan/
-how to open: 1. Macbook Finder. 2. Command + K. 3. type ftp and choose guest.
+How to open: 1. Macbook Finder. 2. Command + K. 3. type ftp and choose guest.
 
 
 * ### Miscellaneous Tools
@@ -108,3 +108,4 @@ how to open: 1. Macbook Finder. 2. Command + K. 3. type ftp and choose guest.
 * [中文 Zlibrary](https://hou.qialu999.com/sites/4160.html)
 * [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
 * [libgen official web](https://libgen.onl)
+* [Harvard Thesis Template](https://github.com/emprice/harvard-gsas-dissertation-template)
