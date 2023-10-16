@@ -103,6 +103,7 @@ How to open: 1. Macbook Finder. 2. Command + K. 3. type ftp and choose guest.
  * [吉他谱](https://www.gtpso.com/index.php/home/index/viewTab?id=3562)
  * [洋流](https://earth.nullschool.net)
  * [color choice](https://colordrop.io)
+ * [extract data from figures](http://www.graphreader.com)
 
 ## hodgepodge
 * [中文 Zlibrary](https://hou.qialu999.com/sites/4160.html)
