@@ -41,6 +41,7 @@
   * [Statmorph: galaxy nonparametric measurement](https://statmorph.readthedocs.io/en/latest/_modules/statmorph/statmorph.html#SourceMorphology)
   * [WCS Transformation](https://docs.astropy.org/en/stable/wcs/index.html)
   * [Box Least Squares (BLS) Periodogram](https://docs.astropy.org/en/stable/timeseries/bls.html#peak-statistics)
+  * [Specutils](https://specutils.readthedocs.io/en/stable/index.html)
 
 
 * ### Review Articles & Books
