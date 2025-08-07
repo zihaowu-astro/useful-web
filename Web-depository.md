@@ -1,11 +1,6 @@
 ## Astronomy
 
 * ### Homepages
-  * [GuoMingHao](https://mh-guo.github.io)
-  * [Meng Gu](https://menggu-astro.github.io)
-  * [WuXiaohan](https://xiaohanzai.github.io)
-  * [Xiangcheng Ma(USTC)](http://www.tapir.caltech.edu/~xchma/)
-  * [Luis C.Ho](http://kavli.pku.edu.cn/~lho/)
   * [饕餮](https://taotie.readthedocs.io/en/latest/resource/research/getting_started_cn.html)
   * [UMBRELA](https://umbrela.cfa.harvard.edu/home)
 
@@ -97,10 +92,6 @@ How to open: 1. Macbook Finder. 2. Command + K. 3. type ftp and choose guest.
   * [Git: Partially Merge](https://cloud.tencent.com/developer/article/1510082)
   * [Multiprocess in Python](Multiprocessing in Python | Set 1 (Introduction) - GeeksforGeeks)
  
-* ### GitHub
-  * [Git 廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600) 
-  * [SSH keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
-
 ## Interesting Things
  * [Academical Family Tree](https://academictree.org)
  * [吉他谱](https://www.gtpso.com/index.php/home/index/viewTab?id=3562)
@@ -110,7 +101,6 @@ How to open: 1. Macbook Finder. 2. Command + K. 3. type ftp and choose guest.
 
 ## hodgepodge
 * [中文 Zlibrary](https://hou.qialu999.com/sites/4160.html)
-* [北京市机动车摇号](https://xkczb.jtw.beijing.gov.cn)
 * [libgen official web](https://libgen.onl)
 * [Harvard Thesis Template](https://github.com/emprice/harvard-gsas-dissertation-template)
 * [My Bike](https://www.lifestylehq.us/bicycles/p/lhq-cx-disc-9-speed-bicycle)
